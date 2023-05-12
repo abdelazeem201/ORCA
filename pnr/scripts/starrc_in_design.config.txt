@@ -1,0 +1,4 @@
+SIGNOFF_IMAGE: /data/eda/synopsys/starrc/R-2020.09-SP3/bin/StarXtract
+MAPPING_FILE: ./library/tech//starrc/saed32nm_tf_itf_tluplus.starrc_in_design.map
+CORNER_GRD_FILE:./scripts/starrc_in_design.corners.txt
+COMMAND_FILE:./scripts/starrc_in_design.cmd
