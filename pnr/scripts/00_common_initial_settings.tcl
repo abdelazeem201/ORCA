@@ -1,6 +1,6 @@
 ##############################################################
 # Common design settings
-# Created by Yanfuti
+# Created by Ahmed Abdelazeem
 ##############################################################
 ### design information
 set design "ORCA_TOP"
