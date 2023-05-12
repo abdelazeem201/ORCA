@@ -1,6 +1,6 @@
 ##############################################################
 # Function: Create power ground shapes and vias in ICC2
-# Created by Yanfuti
+# Created by Ahmed Abdelazeem
 ##############################################################
 source scripts/00_common_initial_settings.tcl
 
