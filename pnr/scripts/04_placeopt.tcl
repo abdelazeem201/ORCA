@@ -1,6 +1,6 @@
 ##############################################################
 # Function: Run place_opt in ICC2
-# Created by Yanfuti
+# Created by Ahmed Abdelazeem
 ##############################################################
 source scripts/00_common_initial_settings.tcl
 
