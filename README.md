@@ -10,3 +10,15 @@ synchronous with both edges of the incoming and outgoing clocks. The processor c
 <p align="center">
  <img src="https://github.com/abdelazeem201/ORCA/assets/58098260/df4030b6-2a2e-4f64-9a1f-72402e71b86c">
 </p>
+
+| .............       | Information   |
+| -------------       | ------------- |
+| Technology Node     | SAED32nm      |
+| Number of Instances  | 52k Instances |
+| Memory Quantity     | 40            |
+| Frequency           | 133MHz & 244MHz @ss0p75v |
+| MMMC                | 2 modes "Func and Test " |
+| Voltage Area        | 2 |
+| Floorplan size      | 999.856um x 1003.2um |
+| Number of Ports     | 240 |
+| metal layer         | 9 |
