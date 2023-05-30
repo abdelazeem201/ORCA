@@ -1,8 +1,8 @@
 ----------------------------------------------------------------------/
 ----                                                               ----
-----  The data contained in the file is created for educational    ---- 
-----  and training purposes only and is  not recommended           ----
-----  for fabrication                                              ----
+----                                                               ----
+----                                                               ----
+----                                                               ----
 ----                                                               ----
 ----------------------------------------------------------------------/
 ----                                                               ----
