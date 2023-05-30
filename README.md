@@ -1,6 +1,6 @@
 # Abstract
 This repository contains low power multi-voltage and multi-threshold techniques implementation based on 32-nanometer ORCA design with RISC core for reducing both static and dynamic power. The designed processor was compared with previous 32-nanometer low power based research and regular
-(without using low power techniques) 14-nanometer design to show the differences in power consumption after implementing
+(without using low power techniques) 32-nanometer design to show the differences in power consumption after implementing
 multi-voltage and multi-threshold techniques.
 
 # ORCA
