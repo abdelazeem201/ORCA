@@ -1,7 +1,5 @@
 # Abstract
-This repository contains low power multi-voltage and multi-threshold techniques implementation based on 32-nanometer ORCA design with RISC core for reducing both static and dynamic power. The designed processor was compared with previous 32-nanometer low power based research and regular
-(without using low power techniques) 32-nanometer design to show the differences in power consumption after implementing
-multi-voltage and multi-threshold techniques.
+This paper presents low power multi-voltage and multi-threshold techniques implementation based on 32-nanometer ORCA design with RISC core for reducing both static and dynamic power. The designed processor was compared with previous 90-nanometer low power based research and regular (without using low power techniques) 32-nanometer design to show the differences in power consumption after implementing multi-voltage and multi-threshold techniques.
 
 # ORCA
 ORCA processor is a 32-bit CPU microprocessor core. Microprocessor has two main interfaces: PCI interface and source synchronous DDR interface for SDRAM. The subblock CLOCK_GEN contains two PLLs (Phase Locked Loop) and a clock multiplier for the functional clocks. These two PLLs cancel the clock tree insertion delay for the PCI I/O interface timing and for the SDRAM input interface timing. The sub-block RESET_BLOCK has a synchronizing reset circuitry for the global, asynchronous prst_n signal. The synchronizing reset circuitry is used during functional mode, but bypassed in test mode. The design has two main interfaces, a PCI interface and an SDRAM with a source synchronous double data rate interface (DDR). The SDRAM bus is capable of addressing PC266 type memory. The DDR data bus is
