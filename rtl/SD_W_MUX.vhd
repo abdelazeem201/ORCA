@@ -1,13 +1,8 @@
-----------------------------------------------------------------------/
-----                                                               ----
-----  The data contained in the file is created for educational    ---- 
-----  and training purposes only and is  not recommended           ----
-----  for fabrication                                              ----
-----                                                               ----
-----------------------------------------------------------------------/
+-----------------------------------------------------------------------
 ----                                                               ----
 ----                                                               ----
-----------------------------------------------------------------------/
+----                                                               ----
+----                                                               ----
 ----                                                               ----
 ----  The 32/28nm Generic Library ("Library") is unsupported       ----    
 ----  Confidential Information of Synopsys, Inc. ("Synopsys")      ----    
